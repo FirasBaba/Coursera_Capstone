@@ -31,3 +31,48 @@ $$
 \mathcal{V}_j^t=\bar{V}_j^t-\frac{1}{n} \sum_{i=1}^n \bar{V}_i^t
 \end{equation}
 ```
+
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+  <msubsup>
+    <mrow>
+      <mi data-mjx-variant="-tex-calligraphic" mathvariant="script">V</mi>
+    </mrow>
+    <mi>j</mi>
+    <mi>t</mi>
+  </msubsup>
+  <mo>=</mo>
+  <msubsup>
+    <mrow>
+      <mover>
+        <mi>V</mi>
+        <mo stretchy="false">¯</mo>
+      </mover>
+    </mrow>
+    <mi>j</mi>
+    <mi>t</mi>
+  </msubsup>
+  <mo>−</mo>
+  <mfrac>
+    <mn>1</mn>
+    <mi>n</mi>
+  </mfrac>
+  <munderover>
+    <mo data-mjx-texclass="OP">∑</mo>
+    <mrow>
+      <mi>i</mi>
+      <mo>=</mo>
+      <mn>1</mn>
+    </mrow>
+    <mi>n</mi>
+  </munderover>
+  <msubsup>
+    <mrow>
+      <mover>
+        <mi>V</mi>
+        <mo stretchy="false">¯</mo>
+      </mover>
+    </mrow>
+    <mi>i</mi>
+    <mi>t</mi>
+  </msubsup>
+</math>
